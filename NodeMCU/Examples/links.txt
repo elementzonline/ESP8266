@@ -1,0 +1,2 @@
+https://github.com/ok1cdj/ESP8266-LUA/tree/master/Thermometer-DS18B20-Thingspeak
+http://randomnerdtutorials.com/esp8266-web-server/
